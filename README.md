@@ -1,3 +1,15 @@
+
+I went throught the Sarah Cullen videos, and created the react app with her.  I got that running and thought I could get this one running.  I got to the point where no errors appeared (though my warnings are an issue) but no data appeared on the screen.   I think I need to start over, but I am out of time.
+
+Regarding the warnings.  Yes, I know that I should be using SetState in a better fashion, but this methodology worked for someone else and I couldn't get my data to appear.  Correcting this was a "nice to have" that I never got to have.
+
+On a personal note, being unable to complete such a simple application with a massive amount of help is quite disheartening.  I thought I was smarter than this.   I thought I worked hard enough to make this happen.  I am sorry that I let you down.
+
+On to the final project.
+
+Matthew McDonald
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
